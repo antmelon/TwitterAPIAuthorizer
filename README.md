@@ -4,7 +4,7 @@ Library to generate Twitter access bearer token through oauth2
 ## Usage
 
 ```python3
-import Authorizer
+from authorizer import Authorizer
 
 def main():
   public_key = 'xxxxxxx'
